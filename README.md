@@ -25,13 +25,13 @@ This project was developed as part of the "Programming with Python" course at IU
 
 ## Project Structure
 
-├── Task.py # Main implementation
-├── test.csv # Test weekly sales data
-├── train.csv # Historical training data
-├── ideal.csv # Ideal sales patterns
-├── sales_forecast_visualization.html # Visualization output
-├── weekly_sales_forecast.db # SQLite database (auto-created)
-├── README.md # Project documentation
+- main.py # Main implementation
+- test.csv # Test weekly sales data
+- train.csv # Historical training data
+- ideal.csv # Ideal sales patterns
+- sales_forecast_visualization.html # Visualization output
+- weekly_sales_forecast.db # SQLite database (auto-created)
+- README.md # Project documentation
 
 
 ## How to Run
